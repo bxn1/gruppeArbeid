@@ -1,4 +1,2 @@
 # gruppeArbeid
-burak
-anotherBranch
-burak is messing around
+new thing
